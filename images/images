@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset ="utf-8">
+	<title>Images</title>
+</head>
+<body>
+<h1 id="top">Adding images!!!</h1>
+
+	<p>
+		If you fail, never give up because FAIL means "First Attempt In Learning". "Failure will never overtake me if my determination to succeed is strong enough." "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents
+		<img src=A._P._J._Abdul_Kalam.jpg" width="650" height="">
+	</p>
+
+</body>
+</html>
